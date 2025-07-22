@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (figuresCalc\x64\Debug\) содержит файлы, которые используются совместно с другим проектом (РГР_ОП_1Сем_МАУ.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  figuresCalc.cpp
+C:\Users\ivano\source\repos\РГР_ОП_1Сем_МАУ\figuresCalc.cpp(211,64): warning C4101: side_c: неиспользованная локальная переменная
+  figuresCalc.vcxproj -> C:\Users\ivano\source\repos\РГР_ОП_1Сем_МАУ\x64\Debug\figuresCalc.exe
